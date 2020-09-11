@@ -1,1 +1,1 @@
-# serverless-newsletter
+<h1>Serverless Newsletter</h1>
