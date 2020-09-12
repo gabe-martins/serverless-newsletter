@@ -1,8 +1,11 @@
 <h1>Serverless Newsletter</h1>
 
-## Tecnologias
- - ReactJS
- - NextJS
- - Vercel
+## Técnologias :computer: 
+ <span><img href="https://pt-br.reactjs.org/" src="https://img.shields.io/badge/React-Js-gree.svg"/></span> <br>
+ <span><img href="https://pt-br.reactjs.org/" src="https://img.shields.io/badge/Next-Js-gree.svg"/></span> <br>
+ <span><img href="https://pt-br.reactjs.org/" src="https://img.shields.io/badge/Vercel-gree.svg"/></span> <br>
+ 
+ 1. yarn ou npm install <br/>
+ 1. yarn ou npm (run) start <br/>
 
 <a href="https://vercel.com/gabe-martins/serverless-newsletter/o5s6lfs24">Click Here!</a>
