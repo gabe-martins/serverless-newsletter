@@ -8,4 +8,4 @@
  1. yarn ou npm install <br/>
  1. yarn ou npm (run) start <br/>
 
-<a href="https://vercel.com/gabe-martins/serverless-newsletter/o5s6lfs24">Click Here!</a>
+<a href="https://serverless-newsletter-o5s6lfs24.vercel.app/">Click Here!</a>
